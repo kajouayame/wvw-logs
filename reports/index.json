@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260615-215706-xhqy",
+      "title": "Gillette Dull Blade",
+      "commanders": [
+        "Gillette Dull Blade"
+      ],
+      "dateStart": "2026-06-15T13:57:06.000Z",
+      "dateEnd": "2026-06-15T14:21:59.000Z",
+      "dateLabel": "6/15/2026, 9:57:06 PM - 6/15/2026, 10:21:59 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260615-215706-xhqy",
+      "summary": {
+        "borderlandsPct": 0.5882352941176471,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260615-215706-6ou8",
       "title": "Gillette Dull Blade",
       "commanders": [
