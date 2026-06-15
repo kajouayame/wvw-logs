@@ -1,8 +1,42 @@
 {
-  "colorPalette": "violet-purple",
+  "colorPalette": "gold-bronze",
   "glassSurfaces": true,
-  "glassmorphic": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260615-200906-8x8q",
+      "title": "Corruptor Mikkael, Joshua Atreides",
+      "commanders": [
+        "Corruptor Mikkael",
+        "Joshua Atreides"
+      ],
+      "dateStart": "2026-06-15T12:09:06.000Z",
+      "dateEnd": "2026-06-15T12:56:54.000Z",
+      "dateLabel": "6/15/2026, 8:09:06 PM - 6/15/2026, 8:56:54 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260615-200906-8x8q",
+      "summary": {
+        "borderlandsPct": 0.5918367346938775,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260602-211116-lswj",
       "title": "Dodong Pagibig, Down Attunement",
