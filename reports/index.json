@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260617-212642-9p9u",
+      "title": "Josh Atreides, S A L T E D Egggggg",
+      "commanders": [
+        "Josh Atreides",
+        "S A L T E D Egggggg"
+      ],
+      "dateStart": "2026-06-17T13:26:42.000Z",
+      "dateEnd": "2026-06-17T14:44:11.000Z",
+      "dateLabel": "6/17/2026, 9:26:42 PM - 6/17/2026, 10:44:11 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260617-212642-9p9u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260617-204104-yztv",
       "title": "S A L T E D Egggggg",
       "commanders": [
