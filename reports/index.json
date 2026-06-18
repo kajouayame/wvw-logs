@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260618-220314-afhj",
+      "title": "S A L T E D Egggggg",
+      "commanders": [
+        "S A L T E D Egggggg"
+      ],
+      "dateStart": "2026-06-18T14:03:14.000Z",
+      "dateEnd": "2026-06-18T14:20:40.000Z",
+      "dateLabel": "6/18/2026, 10:03:14 PM - 6/18/2026, 10:20:40 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260618-220314-afhj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260618-225312-52w9",
       "title": "S A L T E D Egggggg",
       "commanders": [
