@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260622-203300-y58s",
+      "title": "Josh Atreides, Kale Edin",
+      "commanders": [
+        "Josh Atreides",
+        "Kale Edin"
+      ],
+      "dateStart": "2026-06-22T12:33:00.000Z",
+      "dateEnd": "2026-06-22T14:20:37.000Z",
+      "dateLabel": "6/22/2026, 8:33:00 PM - 6/22/2026, 10:20:37 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260622-203300-y58s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260618-225550-4bst",
       "title": "S A L T E D Egggggg",
       "commanders": [
