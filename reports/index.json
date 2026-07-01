@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260701-215401-3zkb",
+      "title": "Enrique Roddriguez, King Tarävangian",
+      "commanders": [
+        "Enrique Roddriguez",
+        "King Tarävangian"
+      ],
+      "dateStart": "2026-07-01T13:54:01.000Z",
+      "dateEnd": "2026-07-01T14:37:02.000Z",
+      "dateLabel": "7/1/2026, 9:54:01 PM - 7/1/2026, 10:37:02 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260701-215401-3zkb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260701-215401-83zh",
       "title": "Enrique Roddriguez, King Tarävangian",
       "commanders": [
