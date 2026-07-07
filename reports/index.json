@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260707-215339-rpzm",
+      "title": "Raia Plaguebloom",
+      "commanders": [
+        "Raia Plaguebloom"
+      ],
+      "dateStart": "2026-07-07T13:53:39.000Z",
+      "dateEnd": "2026-07-07T14:20:06.000Z",
+      "dateLabel": "7/7/2026, 9:53:39 PM - 7/7/2026, 10:20:06 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260707-215339-rpzm",
+      "summary": {
+        "borderlandsPct": 0.2571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260701-215401-xutd",
       "title": "Enrique Roddriguez, King Tarävangian",
       "commanders": [
