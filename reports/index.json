@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260708-213502-6sk7",
+      "title": "Atreïdes",
+      "commanders": [
+        "Atreïdes"
+      ],
+      "dateStart": "2026-07-08T13:35:02.000Z",
+      "dateEnd": "2026-07-08T13:53:54.000Z",
+      "dateLabel": "7/8/2026, 9:35:02 PM - 7/8/2026, 9:53:54 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260708-213502-6sk7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260708-214237-bc48",
       "title": "Atreïdes",
       "commanders": [
