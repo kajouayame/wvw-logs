@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260708-214237-bc48",
+      "title": "Atreïdes",
+      "commanders": [
+        "Atreïdes"
+      ],
+      "dateStart": "2026-07-08T13:42:37.000Z",
+      "dateEnd": "2026-07-08T13:53:54.000Z",
+      "dateLabel": "7/8/2026, 9:42:37 PM - 7/8/2026, 9:53:54 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260708-214237-bc48",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260707-215339-2cu4",
       "title": "Raia Plaguebloom",
       "commanders": [
