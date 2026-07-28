@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-211310-04ex",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-07-28T13:13:10.000Z",
+      "dateEnd": "2026-07-28T13:50:34.000Z",
+      "dateLabel": "7/28/2026, 9:13:10 PM - 7/28/2026, 9:50:34 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260728-211310-04ex",
+      "summary": {
+        "borderlandsPct": 0.06060606060606061,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260722-220612-9p9o",
       "title": "Chrono Kathréftis, Stone Catwall",
       "commanders": [
