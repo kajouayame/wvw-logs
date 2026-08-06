@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-214920-xsdt",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-06T13:49:20.000Z",
+      "dateEnd": "2026-08-06T14:22:07.000Z",
+      "dateLabel": "8/6/2026, 9:49:20 PM - 8/6/2026, 10:22:07 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260806-214920-xsdt",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260728-211310-04ex",
       "title": "Josh Atreides",
       "commanders": [
