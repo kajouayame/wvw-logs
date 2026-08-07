@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-204600-gdp3",
+      "title": "Akamatsu Setsuna, Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Akamatsu Setsuna",
+        "Josh Atreides",
+        "King Tarävangian"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-07T12:46:00.000Z",
+      "dateEnd": "2026-08-07T15:05:00.000Z",
+      "dateLabel": "8/7/2026, 8:46:00 PM - 8/7/2026, 11:05:00 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260807-204600-gdp3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260806-203843-zbf0",
       "title": "Josh Atreides",
       "commanders": [
