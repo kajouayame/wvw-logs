@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-205351-dlvf",
+      "title": "King Tarävangian",
+      "commanders": [
+        "King Tarävangian"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-26T12:53:51.000Z",
+      "dateEnd": "2026-08-26T13:34:14.973Z",
+      "dateLabel": "8/26/2026, 8:53:51 PM - 8/26/2026, 9:34:14 PM",
+      "url": "https://kajouayame.github.io/wvw-logs/?report=20260826-205351-dlvf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260825-195718-z0xd",
       "title": "Josh Atreides",
       "commanders": [
